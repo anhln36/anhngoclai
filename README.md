@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @anhngoclai
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Ruby on Rails
+- 👀 I’m interested in Microservices
 
 <!---
 anhngoclai/anhngoclai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
